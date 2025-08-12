@@ -37,5 +37,5 @@ This repository contains a **mobile robot** project with a hybrid control system
 ---
 
 ## Contact
-📧 Email: zahidan54@gmail.com  
-📷 Instagram: @zhdnakhmad 
+📧 Email: [zahidan54@gmail.com](mailto:zhdn54@gmail.com)  
+📷 Instagram: [@zhdnakhmad](https://instagram.com/zhdnakhmad) 
